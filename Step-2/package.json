@@ -1,0 +1,17 @@
+{
+  "name": "gulp-react",
+  "version": "1.0.0",
+  "description": "Boilerplate setup project for reactjs ",
+  "main": "index.js",
+  "author": "Guy Laor",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^10.2.3",
+    "gulp": "^3.9.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
